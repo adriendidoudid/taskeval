@@ -1,5 +1,12 @@
 # taskeval
 
+## Installation
+
+```text
+mkdir -p ~/.openclaw/skills
+git clone https://github.com/adriendidoudid/taskeval ~/.openclaw/skills/taskeval
+```
+
 ## Add taskeval to a task
 
 ```text
