@@ -5,6 +5,7 @@
 ```text
 mkdir -p ~/.openclaw/skills
 git clone https://github.com/adriendidoudid/taskeval ~/.openclaw/skills/taskeval
+openclaw gateway restart
 ```
 
 ## Add taskeval to a task
